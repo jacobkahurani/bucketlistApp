@@ -16,3 +16,13 @@ input{
     width: 25%
     
 }
+
+.myheader {
+    text-align: center;
+    font-size: 140%;
+
+}
+
+.mycontent {
+    text-align: center
+}

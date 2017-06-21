@@ -9,4 +9,10 @@ body {
 
 .signup-info {
     text-align: center;
+    
+}
+input{
+    position: relative;
+    width: 25%
+    
 }

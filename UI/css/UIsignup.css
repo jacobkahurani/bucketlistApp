@@ -1,0 +1,18 @@
+body {
+    background-color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.welcome {
+    text-align: center;
+}
+
+.signup-info {
+    text-align: center;
+    
+}
+input{
+    position: relative;
+    width: 25%
+    
+}

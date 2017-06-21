@@ -1,0 +1,36 @@
+body {
+    background-color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#table {
+    table-layout: fixed;
+}
+
+#table th {
+    background-color:burlywood;
+    color: white;
+}
+
+.bucketlist-table{
+    width:  100%;
+    border: 1px solid black;
+    margin: auto;
+}
+
+.bucketlist-table tr td{
+    width:  35%;
+    border: 1px solid black;
+}
+.myheader {
+    text-align: center;
+
+}
+
+.mycontent {
+    text-align: center
+}
+    
+
+    
+
